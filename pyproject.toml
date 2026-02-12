@@ -12,6 +12,8 @@ authors = [
 dependencies = [
     "langgraph",
     "langchain-openai",
+    "langchain_community",
     "python-dotenv",
-    "pydantic"
+    "pydantic",
+    "ddgs"
 ]
