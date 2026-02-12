@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Agents"
+version = "0.1.0"
+description = "Arquitetura profissional com agentes de IA complexos(eu espero)"
+authors = [
+    { name="Marcos Eduardo Evangelista Silva", email="marcos.eduardo.developer@gmail.com" }
+]
+dependencies = [
+    "langgraph",
+    "langchain-openai",
+    "python-dotenv",
+    "pydantic"
+]
