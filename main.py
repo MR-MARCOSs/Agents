@@ -20,7 +20,8 @@ def main():
     inputs = {
         "messages": [
             HumanMessage(content="Quais tools você pode usar?"),
-        ]
+        ],
+        "iteration": 0
     }
 
     for output in agent.stream(inputs, stream_mode="updates"):
