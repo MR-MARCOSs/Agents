@@ -1,26 +1,25 @@
 import os
 from dotenv import load_dotenv
-
+load_dotenv()
 from langchain_core.messages import HumanMessage
 
 from src.agents.graph import create_agent_graph
 from src.infra.llm.openai_adapter import OpenAIAdapter
-from src.infra.tools.search import tools
+from infra.tools.gooble_tools.goobe_tools import goobe_tools
 
-load_dotenv()
 
 
 def main():
     llm = OpenAIAdapter(
         model="gpt-4o",
-        tools=tools
+        tools=goobe_tools
     )
 
     agent = create_agent_graph(llm)
 
     inputs = {
         "messages": [
-            HumanMessage(content="Qual a cotação atual do Bitcoin?")
+            HumanMessage(content="Quais tools você pode usar?"),
         ]
     }
 
