@@ -19,7 +19,8 @@ def main():
 
     inputs = {
         "messages": [
-            HumanMessage(content="Quais tools você pode usar?"),
+            # HumanMessage(content="Quais tools você pode usar?"),
+            HumanMessage(content="Me recomende vídeos de arquitetura de agentes de IA"),
         ],
         "iteration": 0
     }
