@@ -18,5 +18,9 @@ dependencies = [
     "ddgs",
     "google-search-results>=2.4.2",
     "google-api-python-client",
-    "langchain"
+    "langchain",
+    "youtube-transcript-api",
+    "yt-dlp",
+    "openai-whisper",
+    "whisper"
 ]

@@ -1,3 +1,4 @@
 .env
 Agents.egg-info
 __pycache__
+*.pdf
