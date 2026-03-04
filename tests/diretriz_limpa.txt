@@ -48,7 +48,7 @@ instrumento que permitirá o acesso sistematizado à literatura
 vigente, permitindo a difusão do conhecimento neces sário para 
 retomar a tendência de redução da mortalidade CV no Brasil.
 1. Estratificação de Risco
-1.1. Estrati昀椀cação de Risco Cardiovascular para Prevenção 
+1.1. Estratificação de Risco Cardiovascular para Prevenção 
 e Tratamento da Aterosclerose
 Um evento coronariano agudo é a primeira manifestação 
 da doença aterosclerótica em aproximadamente metade das 
@@ -127,7 +127,7 @@ causalmente relacionadas a maiores chances de ocorr ência
 de um desfecho CV.8 Entretanto, no estrato populacional Quadro 1.1 – Indivíduos de Muito Alto Risco Cardiovascular de 
 acordo com o Departamento de Aterosclerose da Sociedade 
 Brasileira de Cardiologia7
-Aterosclerose signi昀椀cativa (obstrução ≥ 50%) com ou sem eventos 
+Aterosclerose significativa (obstrução ≥ 50%) com ou sem eventos 
 clínicos em território:
 • Coronário
 • Cerebrovascular
@@ -138,18 +138,18 @@ Cardiologia7
 • Homens com escore de risco global > 20%
 • Mulheres com escore de risco global > 10%
 • Aterosclerose subclínica documentada por:
- - Ultrassonogra昀椀a de carótidas com presença de placa 
+ - Ultrassonografia de carótidas com presença de placa 
  - ITB < 0,9 
  - Escore de CAC > 100 U Agatston
- - Placas ateroscleróticas na angiotomogra昀椀a coronária
+ - Placas ateroscleróticas na angiotomografia coronária
 • Aneurisma de aorta abdominal
-• DCR de昀椀nido por Taxa de Filtração Glomerular < 60 mL/min, em fase 
+• DCR definido por Taxa de Filtração Glomerular < 60 mL/min, em fase 
 não-dialítica
 • Pacientes com LDL-c ≥ 190 mg/dL
 • Diabetes tipos 1 ou 2, com LDL-c entre 70 e 189 mg/dL e presença de ER* 
 ou DASC**
 CAC: cálcio arterial coronariano; DASC: doença aterosclerótica subclínica; 
-DCR: doença renal crônica; ER: estrati昀椀cadores de risco; ITB: índice 
+DCR: doença renal crônica; ER: estratificadores de risco; ITB: índice 
 tornozelo-braquial; LDL-c: lipoproteína de baixa densidade colesterol. * 
 Idade ≥ 48 anos no homem e ≥ 54 anos na mulher; tempo de diagnóstico 
 do diabetes > 10 anos; histórico familiar de parente de primeiro grau 
@@ -157,26 +157,26 @@ com DCV prematura (< 55 anos para homem e < 65 anos para mulher);
 tabagismo (pelo menos um cigarro no último mês); hipertensão arterial 
 sistêmica; síndrome metabólica (SM), de acordo com a International 
 Diabetes Federation; presença de albuminúria > 30 mg/g de creatinina e/
-ou retinopatia; taxa de 昀椀ltração glomerular < 60 mL/min. ** Ultrassonogra昀椀a 
+ou retinopatia; taxa de filtração glomerular < 60 mL/min. ** Ultrassonografia 
 de carótidas com presença de placa > 1,5 mm; ITB < 0,9; escore de cálcio 
 coronário > 10 unidades Agatston; presença de placas ateroscleróticas na 
-angiotomogra昀椀a de coronárias; LDL-c entre 70 e 189 mg/dL, com escore 
+angiotomografia de coronárias; LDL-c entre 70 e 189 mg/dL, com escore 
 de risco global do sexo masculino > 20% e > 10% para o sexo feminino.Quadro 1.3 – Risco Intermediário de acordo com o Departamento de 
 Aterosclerose da Sociedade Brasileira de Cardiologia
 • Pacientes do sexo masculino com escore de risco global de 5 a 20%
 • Pacientes do sexo feminino com escore de risco global de 5 a 10%
 • Pacientes com diabetes, mas sem fatores ER* ou de DASC** 
-DASC: doença aterosclerótica subclínica; ER: estrati昀椀cadores de risco. * 
+DASC: doença aterosclerótica subclínica; ER: estratificadores de risco. * 
 Idade ≥ 48 anos no homem e ≥ 54 anos na mulher; tempo de diagnóstico 
 do diabetes > 10 anos; histórico familiar de parente de primeiro grau 
 com DCV prematura (< 55 anos para homem e < 65 anos para mulher); 
 tabagismo (pelo menos um cigarro no último mês); hipertensão arterial 
 sistêmica; SM, de acordo com a International Diabetes Federation; 
 presença de albuminúria > 30 mg/g de creatinina e/ou retinopatia; taxa 
-de 昀椀ltração glomerular < 60 mL/min. ** Ultrassonogra昀椀a de carótidas 
+de filtração glomerular < 60 mL/min. ** Ultrassonografia de carótidas 
 com presença de placa > 1,5 mm; ITB < 0,9; escore de cálcio coronário 
 > 10 unidades Agatston; presença de placas ateroscleróticas na 
-angiotomogra昀椀a de coronárias; LDL-c entre 70 e 189 mg/dL, com escore 
+angiotomografia de coronárias; LDL-c entre 70 e 189 mg/dL, com escore 
 de risco global do sexo masculino > 20% e > 10% para o sexo feminino.
 
 de baixo risco, dificilmente a presença de um agrav ante 
@@ -340,7 +340,7 @@ Pontos Risco (%) Pontos Risco (%)
 10 9,4
 11 11,2
 12 13,2
-Tabela 1.1 – Recomendações para estrati昀椀cação do risco cardiovascular
+Tabela 1.1 – Recomendações para estratificação do risco cardiovascular
 Recomendação Classe de recomendação Nível de evidência Referência
 Avaliação rotineira dos fatores de risco CV para adultos de 40 a 75 anos de idade, 
 segundo ERG para 10 anos (Quadros 1.5, 1.6, 1.7, 1.8; Figura 1.1)I B 2,9,10
@@ -405,8 +405,8 @@ HF é uma ferramenta muito útil, porém não obrigatór ia,
 na confirmação de casos suspeitos e no rastreamento de 
 familiares dos casos-índice confirmados. 
 
-Figura 1.1 – Estrati昀椀cação do risco cardiovascular. DASC: doença aterosclerótica subclínica; DRC: doença renal crônica (taxa de 昀椀ltração glomerular < 60 ml/mn/m2, 
-não dialítica); ER: estrati昀椀cadores de risco; ERG: escore de risco global.ERG < 5% em 
+Figura 1.1 – Estratificação do risco cardiovascular. DASC: doença aterosclerótica subclínica; DRC: doença renal crônica (taxa de filtração glomerular < 60 ml/mn/m2, 
+não dialítica); ER: estratificadores de risco; ERG: escore de risco global.ERG < 5% em 
 homens ou 
 mulheres
 Risco baixoERG 5 a < 20% em 
@@ -422,7 +422,7 @@ Aneurisma de aorta
 abdominal
 DRC
 LDL elevado
-Risco altoAterosclerose signi昀椀cativa 
+Risco altoAterosclerose significativa 
 (> 50% obstrução)
 Com ou sem sintomas
 clínicos
@@ -487,7 +487,7 @@ dentre os quais os efeitos musculares são os mais comuns,
 e podem surgir em semanas ou anos após o início do 
 
 Tabela 2.3 – Critérios diagnósticos da Hipercolesterolemia Familiar (baseado nos critérios da Dutch Lipid Clinic Network [Dutch MEDPED])
-Par愃Ȁmetro Pontos
+Parâmetro Pontos
 Histórico familiar
 Parente de 1º grau portador de doença vascular/coronária prematura (homem < 55 anos, mulher < 60 anos) OU
 Parente adulto de 1º ou 2º grau com CT > 290 mg/dL*
@@ -520,14 +520,14 @@ Não é HF> 8 pontos
 6 - 8 pontos 
 3 - 5 pontos
 < 3 pontos
-CT: colesterol total. HF: hipercolesterolemia familiar; LDL-c: colesterol da lipoproteína de baixa densidade. * Modi昀椀cado do Dutch MEDPED, adotando um crit攃Ārio 
+CT: colesterol total. HF: hipercolesterolemia familiar; LDL-c: colesterol da lipoproteína de baixa densidade. * Modificado do Dutch MEDPED, adotando um critério 
 presente na proposta do Simon Broome Register Group . Adaptado da Atualização da Diretriz de Dislipidemias e Prevenção da Aterosclerose (5) e da I Diretriz 
 Brasileira de Hipercolesterolemia Familiar.19
 Tabela 2.4 – Recomendações dietéticas para o tratamento das dislipidemias
 Recomendações LDL-c Triglicérides
 Dentro da meta e sem 
 comorbidades * (%)Acima da meta 
-ou presen挃✀a de 
+ou presença de 
 comorbidades* (%)Limítrofe 
 150-199 mg/dL (%)Elevados 
 200-499 mg/dL (%)Muito elevados† 
@@ -548,9 +548,9 @@ monoinsaturados (%VCT)15 15 10-20 10-20 10-20
 insaturados (%VCT)5-10 5-10 10-20 10-20 10-20
 䄃Ācido linolenico, g/dia 1,1-1,6
 EPA e DHA, g - - 0,5-1,0 > 2,0 > 2,0
-Fibras 25 g, sendo 6 g de 昀椀bra solúvel
+Fibras 25 g, sendo 6 g de fibra solúvel
 DHA: ácido docosahexaenóico; EPA: ácido eicosapentaenoico; LDL-c: colesterol da lipoproteína de baixa densidade; VCT: valor calórico total. O tempo de 
-reavaliação após a implantação das medidas de modi昀椀caç漃̀es do estilo de vida deve ser de 3 a 6 meses. Adaptado da Atualização da Diretriz de Dislipidemias e 
+reavaliação após a implantação das medidas de modificaç漃̀es do estilo de vida deve ser de 3 a 6 meses. Adaptado da Atualização da Diretriz de Dislipidemias e 
 Prevenção da Aterosclerose.7
 
 Tabela 2.5 – Intensidade do tratamento hipolipemiante
@@ -591,7 +591,7 @@ Não é recomendado tratamento medicamentoso visando a elevação dos níveis de
 Indivíduos com níveis de triglicérides > 500 mg/dL devem receber terapia apropriada para redução 
 do risco de pancreatiteI A 7
 Indivíduos com níveis de triglicérides entre 150 e 499 mg/dL devem receber terapia com base no 
-risco cardiovascular e nas condi挃✀ões associadasIIa B 7
+risco cardiovascular e nas condições associadasIIa B 7
 HDL-c: colesterol da lipoproteína de alta densidade; LDL-c: colesterol da lipoproteína de baixa densidade. O tempo de reavaliação após o tratamento medicamentoso 
 deve ser de pelo menos um mês. Adaptado da Atualização da Diretriz de Dislipidemias e Prevenção da Aterosclerose.7
 tratamento. Variam desde mialgia, com ou sem elevaç ão 
@@ -644,8 +644,8 @@ Indicado para pacientes com risco cardiovascular elevado, em tratamento otimizad
 na maior dose tolerada, associado ou não à ezetimiba, e que não tenham alcançado as metas de 
 LDL-c ou não HDL-c recomendadas*IIa A 7
 HDL-c: colesterol da lipoproteína de alta densidade; LDL-c: colesterol da lipoproteína de baixa densidade. Nos pacientes de muito alto risco e em algumas situaç漃̀es 
-de alto risco, quando já houver o uso de estatina na dose máxima tolerada e ezetimiba, a adição de um inibidor de PCSK9 攃Ā razoável, embora a segurança no longo 
-prazo (> 3 anos) ainda não esteja estabelecida e a custo-efetividade seja baixa de acordo com dados disponíveis at攃Ā o momento.20 Adaptado da Atualização da 
+de alto risco, quando já houver o uso de estatina na dose máxima tolerada e ezetimiba, a adição de um inibidor de PCSK9 é razoável, embora a segurança no longo 
+prazo (> 3 anos) ainda não esteja estabelecida e a custo-efetividade seja baixa de acordo com dados disponíveis até o momento.20 Adaptado da Atualização da 
 Diretriz de Dislipidemias e Prevenção da Aterosclerose.7
 deve-se considerar o tratamento medicamentoso da 
 hipertrigliceridemia, segundo a Tabela 2.7.
@@ -658,11 +658,11 @@ Fibratos
 Triglicérides acima de 500 mg/dL I A 32,33
 Dislipidemia mista com predomínio de hipertrigliceridemia IIa B 32,33
 Em paciente com diabetes e com TG > 200 mg/dL e HDL-c < 35 mg/dl, a combinação de 
-feno昀椀brato e estatina pode ser considerada quando as modi昀椀cações do estilo de vida falharam IIa B 32,33
+fenofibrato e estatina pode ser considerada quando as modificações do estilo de vida falharam IIa B 32,33
 Ácido nicotínico (niacina)
 Não há evidência de benefício do fármaco em indivíduos com LDL-c controlado III A 32,33
 Pode, excepcionalmente, ser utilizado em pacientes com HDL-c baixo isolado e como 
-alternativa aos 昀椀bratos e estatinas, ou em associação com esses fármacos em portadores de 
+alternativa aos fibratos e estatinas, ou em associação com esses fármacos em portadores de 
 hipercolesterolemia, hipertrigliceridemia ou dislipidemia mista resistente IIa A 32,33
 Ácidos graxos ômega-3
 Ácidos graxos ômega 3 em altas doses (4 a 10 g ao dia) podem ser usados associados a outros 
@@ -671,30 +671,30 @@ com o tratamentoI A 32,33
 Pode ser recomendada suplementação com formulação a base de EPA (icosapenta-etil, 4 g/dia) 
 em pacientes de alto risco com TG elevados, em uso de estatinas, uma vez que parece reduzir o 
 risco de eventos isquêmicos, incluindo morte cardiovascular*I B 32,33
-EPA: ácido eicosapentaenoico; HDL-c: colesterol da lipoproteína de alta densidade; LDL-c: colesterol da lipoproteína de baixa densidade; TG: triglic攃Ārides. * Tal 
+EPA: ácido eicosapentaenoico; HDL-c: colesterol da lipoproteína de alta densidade; LDL-c: colesterol da lipoproteína de baixa densidade; TG: triglicérides. * Tal 
 formulação não existe comercialmente em nosso país. Adaptado de I Diretriz Brasileira sobre Consumo de Gorduras e Saúde Cardiovascular.323. Diabetes e Síndrome Metabólica
 3.1. Risco Miocárdico
 O diagnóstico de DM2 impõe um risco de IC 2 a 5 vezes 
 maior em comparação com indivíduos sem diabetes.34 
 
-Tabela 2.8 – Doses dos 昀椀bratos e alterações lipídicas (porcentagens 
+Tabela 2.8 – Doses dos fibratos e alterações lipídicas (porcentagens 
 médias)*
 FármacosDosagem 
 (mg/dia)Redução TG 
 (%)Aumento 
 HDL-c (%)Redução 
 LDL-c (%)
-Beza昀椀brato 200-600 30-60 7-11 Variável
-Beza昀椀brato 
+Bezafibrato 200-600 30-60 7-11 Variável
+Bezafibrato 
 retard400 30-60 7-11 Variável
-Gem昀椀brozila 600-1200 30-60 7-11 Variável
-Gem昀椀brozila 
+Gemfibrozila 600-1200 30-60 7-11 Variável
+Gemfibrozila 
 retard500 30-60 7-11 Variável
-Eto昀椀brato 500 30-60 7-11 Variável
-Feno昀椀brato 160-250 30-60 7-11 Variável
-Cipro昀椀brato 100 30-60 7-11 Variável
+Etofibrato 500 30-60 7-11 Variável
+Fenofibrato 160-250 30-60 7-11 Variável
+Ciprofibrato 100 30-60 7-11 Variável
 HDL-c: colesterol da lipoproteína de alta densidade; LDL-c: colesterol da 
-lipoproteína de baixa densidade; TG: triglic攃Ārides. * Efeitos dependentes 
+lipoproteína de baixa densidade; TG: triglicérides. * Efeitos dependentes 
 da dose utilizada e do valor basal inicial de TG. Adaptado da Atualização 
 da Diretriz de Dislipidemias e Prevenção da Aterosclerose.7
 Na medida em que são excluídos pacientes com DAC, 
@@ -762,13 +762,13 @@ maiores*
 STOP-HF42Ensaio randomizado e controlado 
 de triagem de BNP versus 
 tratamento primário habitualIdade > 40 anos sem 
-IC mas com doen挃✀a 
+IC mas com doença 
 cardiovascular ou fatores 
 de risco cardiovascular1.374 21/4,2 anosOR, 0,48 
 (intervalo de 
-con昀椀ança 95%, 
+confiança 95%, 
 0,20-1,20)OR, 0,60 (intervalo 
-de con昀椀ança 95%, 
+de confiança 95%, 
 0,45-0,81)
 PONTIAC43Estudo controlado, randomizado 
 de tratamento em ambulatório 
@@ -780,12 +780,12 @@ DM versus cuidados em unidade de
 cuidado de DM isoladoDM2 sem doença 
 cardiovascular conhecida 
 e NT-proBNP > 125 pg/mL300 8 / 2 anosHR, 0,14 (intervalo 
-de con昀椀ança 95%, 
+de confiança 95%, 
 0,02-1,14)HR, 0,35 (intervalo 
-de con昀椀ança 95%, 
+de confiança 95%, 
 0,13-0,97)
-BNP: peptídeo natriur攃Ātico cerebral; DM: diabetes mellitus ; IC: insu昀椀ciência cardíaca; HR: hazard ratio; NT-proBNP: fragmento N-terminal do peptídeo natriur攃Ātico 
-tipo B. * Eventos cardiovasculares maiores de昀椀nidos como hospitalizaç漃̀es não planejadas por causas cardiovasculares e mortes.
+BNP: peptídeo natriurético cerebral; DM: diabetes mellitus ; IC: insuficiência cardíaca; HR: hazard ratio; NT-proBNP: fragmento N-terminal do peptídeo natriurético 
+tipo B. * Eventos cardiovasculares maiores definidos como hospitalizaç漃̀es não planejadas por causas cardiovasculares e mortes.
 
 Disfunção diastólica ao ecocardiograma – Especialistas 
 historicamente divergem sobre as recomendações para o 
@@ -851,7 +851,7 @@ de BNP ≥ 50 pg/mL ou NT-proBNP ≥ 125 pg/mL reclassifique
 os indivíduos em um patamar de risco acima.
 3.1.2. Terapias Preventivas para Indivíduos de Alto e 
 Muito Alto Risco para insuficiência cardíaca em 5 Anos 
-e Prevenção Secundária para aqueles com insuficiênc ia 
+e Prevenção Secundária para aqueles com insuficiência 
 cardíaca Manifesta
 Terapias medicamentosas para DM2 com impacto na 
 IC – Conforme exposto previamente, para cada 1% acima de 
@@ -968,8 +968,8 @@ hipertrigliceridemia, e LDL pequena e densa, compondo o
 cenário ideal para aterogênese acelerada.74 Em conjunto, esses 
 dados sugerem que a DAC é acelerada mesmo muitos anos 
 antes do aparecimento da hiperglicemia.
-3.2.2. Estratégias em Prevenção Primária para Doenç a 
-Arterial Coronária nos Indivíduos com Síndrome Meta bólica 
+3.2.2. Estratégias em Prevenção Primária para Doença 
+Arterial Coronária nos Indivíduos com Síndrome Metabólica 
 e Diabetes Mellitus
 Corroborando com evidências fisiopatológicas, estratégias 
 de controle de peso com atividade física e orientaç ão dietética 
@@ -984,7 +984,7 @@ o ensaio clínico randomizado STENO-277 demonstrou que
 uma abordagem multifatorial sobre estilo de vida diminuiu 
 significativamente a morbi-mortalidade CV em comparação 
 ao tratamento convencional.
-3.2.3. Predição do Risco Individual de Doença Arter ial 
+3.2.3. Predição do Risco Individual de Doença Arterial 
 Coronária em Pacientes com Síndrome Metabólica e 
 Diabetes Mellitus
 Pelo menos 68 % dos diabéticos com 65 anos ou mais 
@@ -1264,14 +1264,14 @@ inexoravelmente nas últimas 4 a 5 décadas.114 O percentual
 Quadro 3.1 – Recomendações para o manejo da diabetes mellitus e sídrome metabólica
 Recomendação Classe de recomendação Nível de evidência Referência
 O Health ABC Heart Failure Score deve ser recomendado para pacientes com SM ou DM como 
-estratégia primordial na estrati昀椀cação do risco para ICI B 52-54
+estratégia primordial na estratificação do risco para ICI B 52-54
 Valores de BNP ≥ 50 pg/mL ou NT-proBNP ≥ 125 pg/mL devem ser utilizados em conjunto para 
-reclassi昀椀car os indivíduos com risco para IC moderado em IC de alto risco 
+reclassificar os indivíduos com risco para IC moderado em IC de alto risco 
 Aos indivíduos de alto e muito alto risco, deve-se oferecer uma abordagem intensiva em termos de 
 prevenção primáriaIIa A 52-54
-A identi昀椀cação ecocardiográ昀椀ca de disfunção diastólica em pacientes com DM ou SM sem sintomas 
+A identificação ecocardiográfica de disfunção diastólica em pacientes com DM ou SM sem sintomas 
 clínicos de IC deve sugerir risco aumentado para o desenvolvimento de IC. Porém, não há dados 
-su昀椀cientes para recomendar seu uso rotineiro para estimar o risco futuro de IC sintomáticaIIA B 50,51
+suficientes para recomendar seu uso rotineiro para estimar o risco futuro de IC sintomáticaIIA B 50,51
 Recomenda-se o uso de um fármaco inibidor de SGLT2 em pacientes com DM ou SM sem 
 sintomas clínicos de IC, mas sob elevado ou muito elevado risco de IC com base no Health ABC 
 Heart Failure Score e nos níveis de BNP I B 57,58
@@ -1281,7 +1281,7 @@ Health ABC Heart Failure Score e nos níveis de BNP III A 59-61
 As estratégias de controle de peso, atividade física, orientação dietética e cessação do tabagismo 
 devem ser oferecidas a todos os pacientes com intolerância a glicose, SM ou DM, de maneira a 
 mitigar a progressão da DAC1 A 75-77
-Não é recomendável estrati昀椀car o risco de eventos coronários por meio de métodos anatômicos ou 
+Não é recomendável estratificar o risco de eventos coronários por meio de métodos anatômicos ou 
 funcionais em pacientes assintomáticos com SM ou DM III A 78-84
 Recomenda-se o uso de CACS em pacientes com DM ou SM e risco cardiovascular intermediário 
 (5 – 20% pelo ERG). Com CACS = 0, em geral, recomenda-se não iniciar estatina I B 89-94
@@ -1301,12 +1301,12 @@ ou DM, independentemente do risco cardiovascularIII A 103,104
 Recomenda-se a introdução de um análogo de GLP-1 em pacientes diabéticos com história de 
 doença cardiovascular ou sem doença cardiovascular, mas com risco ASCVD elevado ou muito 
 elevadoI A 55,108-111
-AAS: ácido acetil-salicílico; ASCVD: atherosclerotic cardiovascular disease ; BNP: peptídeo natriur攃Ātico tipo B; CACS: escore de cálcio coronário; DAC: doença 
+AAS: ácido acetil-salicílico; ASCVD: atherosclerotic cardiovascular disease ; BNP: peptídeo natriurético tipo B; CACS: escore de cálcio coronário; DAC: doença 
 arterial coronariana; DM: diabetes mellitus ; ERG: escore de risco global; HF: hipercolesterolemia familiar; GLP1: glucagon-like peptide-1 ; LDL-c: colesterol da 
-lipoproteína de baixa densidade; NT-ProBNP: fragmento N-terminal do peptídeo natriur攃Ātico tipo B; PCSK9: proprotein convertase subtilisin/kexin type 9 ; SGLT2: 
+lipoproteína de baixa densidade; NT-ProBNP: fragmento N-terminal do peptídeo natriurético tipo B; PCSK9: proprotein convertase subtilisin/kexin type 9 ; SGLT2: 
 inibidores do cotransportador de sódio-glucose 2; SM: síndrome metabólica.
 
-Figura 3.1 – Escore ABC para insu昀椀ciência cardíaca (Health ABC Heart Failure Score).Idade
+Figura 3.1 – Escore ABC para insuficiência cardíaca (Health ABC Heart Failure Score).Idade
 Idade Pontos
 ≤ 71 -1
 72-75 0
@@ -1317,8 +1317,8 @@ coronariana
 Status Pontos
  Não 0
  Possível 2
- De昀椀nida 5
-Hipertro昀椀a do VE
+ Definida 5
+Hipertrofia do VE
 Status Pontos
  Não 0
  Sim 2PA sistólica
@@ -1420,7 +1420,7 @@ para mortalidade precoce ao redor do mundo.128 Dessa
 forma, uma nutrição saudável é recomendada para todos, 
 e correlações benéficas são observadas entre a habi lidade 
 
-Figura 3.2 – Evolução da doença micro e macrovascular no diabetes tipo 2 e sua relação com a reserva funcional das c攃Ālulas beta pancreáticas e hiperglicemia.
+Figura 3.2 – Evolução da doença micro e macrovascular no diabetes tipo 2 e sua relação com a reserva funcional das células beta pancreáticas e hiperglicemia.
 de preparar alimentos saudáveis e o consumo de escolhas 
 alimentares igualmente saudáveis.129 No entanto, pesquisas 
 vêm mostrando uma redução no hábito de cozinhar em alguns 
@@ -1537,24 +1537,24 @@ para o seu desenvolvimento. À medida que o indivídu o
 envelhece a prevalência da HA aumenta de forma expr essiva, 
 Tabela 4.1 – Recomendações para abordagem dos adultos com sobrepeso e obesidade
 Recomendação Classe de recomendação Nível de evidência Referência
-Em indivíduos com sobrepeso e obesidade, a perda de peso é recomendada para melhorar o per昀椀l 
+Em indivíduos com sobrepeso e obesidade, a perda de peso é recomendada para melhorar o perfil 
 de risco cardiovascular I B 2,9,128
 Aconselhamento e intervenções abrangentes no estilo de vida, incluindo restrição calórica, são 
 recomendados para alcançar e manter a perda de peso em adultos com sobrepeso e obesidadeI B 2,9,128
 Calcular o índice de massa corporal e realizar medidas antropométricas em consultas médicas 
-para identi昀椀car adultos com sobrepeso e obesidade com objetivo de intervençãoI C 2,9,128
-Avaliar a circunferência da cintura para identi昀椀car aqueles com maior risco cardiometabólico IIa B 2,9,128Tabela 5.1 – Classi昀椀cação da pressão arterial de acordo com a 
+para identificar adultos com sobrepeso e obesidade com objetivo de intervençãoI C 2,9,128
+Avaliar a circunferência da cintura para identificar aqueles com maior risco cardiometabólico IIa B 2,9,128Tabela 5.1 – Classificação da pressão arterial de acordo com a 
 medição casual ou no consultório a partir de 18 anos de idade146
-Classi昀椀cação PAS (mmHg) PAD (mmHg)
+Classificação PAS (mmHg) PAD (mmHg)
 Normal ≤ 120 ≤ 80
 Pré-hipertensão 121-139 81-89
 Hipertensão estágio 1 140-159 90-99
 Hipertensão estágio 2 160-179 100-109
 Hipertensão estágio 3 ≥ 180 ≥ 110
 Quando a PAS e a PAD situam-se em categorias diferentes, a maior deve ser 
-utilizada para a classi昀椀cação da PA
+utilizada para a classificação da PA
 Considera-se a hipertensão sistólica isolada se a PAS ≥ 140 mmHg e a 
-PAD < 90 mmHg, devendo a mesma ser classi昀椀cada em estágios 1, 2 ou 3
+PAD < 90 mmHg, devendo a mesma ser classificada em estágios 1, 2 ou 3
 PA: pressão arterial; PAS: pressão arterial sistólica; PAD: pressão arterial 
 diastólica.
 
@@ -1605,8 +1605,8 @@ econômico e cultural, aumentam o risco para HA e
 consequentemente as DCV e diminuem a adesão ao esti lo de 
 vida saudável e ao tratamento medicamentoso. Por ou tro lado, 
 a presença da DCV também aumenta o risco da manifes tação 
-Tabela 5.2 – Classi昀椀cação da intensidade da atividade física e exemplos de níveis de intensidade absoluta e relativa9
-Classi昀椀cação Intensidade absoluta Intensidade relativa
+Tabela 5.2 – Classificação da intensidade da atividade física e exemplos de níveis de intensidade absoluta e relativa9
+Classificação Intensidade absoluta Intensidade relativa
 Intensidade MET Exemplos % FCmax Teste de conversa
 Leve 1,1 – 2,9 Andar (< 4,7 km/h), trabalho doméstico leve 50 – 63
 Moderada 3,0 – 5,9Andar rapidamente (4.8–6.5 km/h), ciclismo lento (15 
@@ -1616,7 +1616,7 @@ frases completas
 Intensa ≥ 6,0Corrida, ciclismo (> 15 km/h), jardinagem pesada, 
 natação, tênis77 – 93A respiração é mais intensa, incompatível com uma 
 conversa confortável
-FC: frequência cardíaca; MET (equivalente metabólico) 攃Ā o gasto energ攃Ātico de uma atividade dividida pelo gasto energ攃Ātico em repouso: 1 MET = 3,5 mL O2 kg-1 
+FC: frequência cardíaca; MET (equivalente metabólico) é o gasto energético de uma atividade dividida pelo gasto energético em repouso: 1 MET = 3,5 mL O2 kg-1 
 min-1 consumo de oxigênio (VO2). % FCmax, percentagem da frequência cardíaca máxima medida ou estimada (220-idade). Adaptado do 2016 European Guidelines 
 On Cardiovascular Disease Prevention In Clinical Practice .9
 Tabela 5.3 – Atividade física para a prevenção e tratamento de hipertensão147,151-153
@@ -1724,14 +1724,14 @@ c. Baixo carboidrato: < 25% de carboidratos da ingestão total de energia; alta
 ingestão de proteína animal e/ou vegetal; muitas vezes alta ingestão de gordura
 d. Paleolítica: carne magra, peixe, fruta, vegetais folhosos e crucíferos, 
 tubérculos, ovos e nozes, excluindo produtos lácteos, grãos de cereais, feijão e 
-gorduras re昀椀nadas, açúcar, doces, refrigerantes, cerveja e adição extra de sal
+gorduras refinadas, açúcar, doces, refrigerantes, cerveja e adição extra de sal
 e. Moderada em carboidratos: 25 a 45% de carboidratos do total de energia 
 ingerida; 10 a 20% de ingestão proteica
 f. Hiperproteica: > 20% de ingestão proteica de energia total ingerida; alta 
 ingestão de proteína animal e/ou vegetal; < 35% de gordura
 g. Nórdica: produtos integrais, uso abundante de frutas e hortaliças, óleo de 
 colza, três refeições de peixe por semana, produtos lácteos com baixo teor de 
-gordura, sem produtos a挃✀ucarados
+gordura, sem produtos açucarados
 h. Tibetana: alimentos ricos em proteínas e ricos em vitaminas, 
 preferencialmente alimentos cozidos e quentes
 i. Baixo teor de gordura: < 30% de gordura na ingestão total de energia; alta 
@@ -1959,7 +1959,7 @@ de potássio, aumento da atividade física com um programa de exercícios estrut
 limitada de álcoolI A 9,10,155,164,189
 Recomenda-se medicação anti-hipertensiva para a adultos com risco estimado ≥ 10%, em 10 anos e 
 PA sistólica média ≥ 130 mmHg ou PAD média ≥ 80 mmHg, para prevenção primária de DCV I A 9,10,155,164,189
-Recomenda-se para adultos com hipertensão con昀椀rmada e risco cardiovascular ≥ 10%, PA alvo 
+Recomenda-se para adultos com hipertensão confirmada e risco cardiovascular ≥ 10%, PA alvo 
 < que 130/80 mmHg.I B 9,10,155,164,189
 Recomenda-se para adultos com hipertensão arterial e doença renal crônica, meta pressórica < que 
 130/80 mmHgI B 9,10,155,164,189
@@ -1967,16 +1967,16 @@ Recomenda-se para adultos com hipertensão arterial e diabetes tipo 2, meta pres
 130/80 mmHg, devendo ser iniciada se PA ≥ 130/80 mmHgI B 9,10,155,164,189
 Recomenda-se medicação anti-hipertensiva para a adultos com risco estimado < 10%, em 10 anos, e 
 PA ≥ 140/90 mmHg, para prevenção primária de DCV I C 9,10,155,164,189
-Em adultos com hipertensão con昀椀rmada sem marcadores adicionais de aumento do risco 
+Em adultos com hipertensão confirmada sem marcadores adicionais de aumento do risco 
 cardiovascular, a meta pressórica < 130/80 mmHg é recomendadaIIb B9.10,155,164, 
 189
 DCV: doença cardiovascular; PA: pressão arterial; PAD: pressão arterial diastólica.Figura 5.1 – Fluxograma para o diagnóstico de hipertensão arterial. PA: pressão arterial; MAPA: monitorização ambulatorial da PA; MRPA: monitorização residencial 
-da PA. Modi昀椀cado de referências.9,10,189
+da PA. Modificado de referências.9,10,189
 PA elevada ≥ 180/110 mmH G 
 Afastar urgência/emergência hipertensiva e 
 encaminhar para Serviço de Urgência
-Diagnóstico con昀椀rmado
-Identi昀椀car lesões de órgãos-alvo
+Diagnóstico confirmado
+Identificar lesões de órgãos-alvo
 Rever pelo menos anualmente
 Hipertensão do avental branco
 Diferença entre PA do consultório e a de MAPA ou 
@@ -2211,7 +2211,7 @@ faça parte de uma dieta saudável, a recomendação de
 suplementar a dieta com cápsulas de óleo de peixe cerca-se 
 por controvérsias, fomentadas por resultados conflitantes de 
 estudos clínicos.32,227-229
-6.9. Efeitos do Ômega-3 sobre o Per昀椀l Lipídico
+6.9. Efeitos do Ômega-3 sobre o Perfil Lipídico
 Estudos clínicos mostram que a suplementação com 2 a 4 g 
 de EPA/DHA ao dia pode diminuir os níveis de TG em até 25 a 
 30%, aumentar discretamente os de HDL-C (1 a 3%) e elevar 
@@ -2223,7 +2223,7 @@ Tabela 6.1 – Resumo das recomendações para o não consumo de suplementos de 
 Recomendações Descrição Classe de recomendação Nível de evidência Referências
 Vitamina A ou beta-carotenoNão há evidência de benefício da suplementação de vitamina 
 A ou beta-caroteno para prevenção primária ou secundária de 
-doen挃✀a cardiovascular III A 204,205
+doença cardiovascular III A 204,205
 Suplementos de vitamina B e 
 ácido fólicoNão são efetivos para prevenção de doença cardiovascular 
 primária ou secundária III A 164,208
@@ -2231,7 +2231,7 @@ Vitamina DNão é recomendada a suplementação de vitaminas D para
 prevenção de doença cardiovascular em pessoas com níveis 
 sanguíneos normais desta vitamina. Da mesma forma, não 
 há evidências que sua suplementação em indivíduos com 
-de昀椀ciência prevenirá a DCVIII A 215,216,217
+deficiência prevenirá a DCVIII A 215,216,217
 Vitamina E Não é recomendada a suplementação de vitamina E para 
 prevenção de doença cardiovascularIII A 205,208
 Vitamina KDa mesma forma, não há evidências que a suplementação de 
@@ -2329,7 +2329,7 @@ importante salientar, contudo, que há ainda diverso s estudos
 testando doses moderadas a elevadas de EPA e EPA + DHA 
 em indivíduos de alto risco para DCV que persistem com 
 TG moderadamente elevados. 
-6.11. Ômega-3 na Insu昀椀ciência Cardíaca
+6.11. Ômega-3 na Insuficiência Cardíaca
 O estudo GISSI-HF ( GISSI-Heart Failure ) avaliou o papel 
 do ômega-3 na IC.235 Esse estudo randomizou pacientes 
 com IC crônica classe funcional II-IV de diferentes etiologias 
@@ -2388,7 +2388,7 @@ Suplementação de ômega 3 em dose de 1 grama por dia (EPA + DHA) pode ser feit
 portadores de IC classe funcional II a IVII B 235
 Não se recomenda a suplementação de EPA + DHA para indivíduos de prevenção primária, 
 utilizando-se ou não tratamentos preventivos baseados em evidênciaIII A 231
-DHA: ácido docosahexaenóico; EPA: ácido eicosapentaenoico, IC: insu昀椀ciência cardíaca; TG: triglic攃Ārides.
+DHA: ácido docosahexaenóico; EPA: ácido eicosapentaenoico, IC: insuficiência cardíaca; TG: triglicérides.
 
 Tabela 6.3 – Recomendação para consumo de produtos ricos em ácidos graxos ômega-3 de origem vegetal 
 Indicação Classe Nível de evidência Referência
@@ -3050,7 +3050,7 @@ tabagistas podem ser vistas na Tabela 7.1 e nos Qua dros
 Quadro 7.1 – Avaliação inicial na abordagem do tabagismo300
 Anamnese
 • Escalas: Fagerström (para dependência de nicotina)265 – Tabela 7.2
-• Prochaska e DiClementi (para motivação)263 - veri昀椀car as técnicas de aconselhamento por paciente – Tabela 7.3
+• Prochaska e DiClementi (para motivação)263 - verificar as técnicas de aconselhamento por paciente – Tabela 7.3
 • Comorbidades clínicas e/ou psiquiátricas (diabetes, HAS, depressão, alcoolismo, AVC, convulsão, câncer)
 • Medicações de uso contínuo
 • Fatores de risco para DCV (dislipidemia, uso de contraceptivos orais ou estrogênio)
@@ -3062,14 +3062,14 @@ Anamnese
 - Se está interessado (ou pensa) em parar de fumar
 • Questões relacionadas à interrupção do tabagismo:
 - Se pensa em marcar uma data para deixar de fumar e se gostaria de ajuda
-- Se já tentou parar de fumar alguma vez, se conseguiu, se fez uso de alguma medicação e por quanto tempo 昀椀cou sem fumar
+- Se já tentou parar de fumar alguma vez, se conseguiu, se fez uso de alguma medicação e por quanto tempo ficou sem fumar
 Exame físico
 • Monitorar a PA, especialmente durante uso de bupropiona
 • Monitorar o peso corporal: o aumento ponderal pode ser uma barreira para iniciar o abandono do tabaco e um fator preditivo da recaída
 Exames complementares
 • Hemograma, provas de função hepática, glicemia, lipidograma e bioquímica sérica
-• Radiogra昀椀a do tórax
-• Eletrocardiogra昀椀a
+• Radiografia do tórax
+• Eletrocardiografia
 • Espirometria (nem sempre disponível com facilidade)
 • Aferição do COex, se possível. Essa medida guarda relação direta com a carboxi-hemoglobina e com os cigarros fumados por dia. O ponto de corte é de 6 ppm
 COex: monóxido de carbono no ar expirado; DCV: doença cardiovascular; PA: pressão arterial.
@@ -3083,8 +3083,8 @@ de dependência. As taxas de sucesso na cessação do fumo variam de 30% a 36%
 • Esquema terapêutico: Iniciar tratamento 8 dias antes da interrupção do tabagismo
 – 150 mg pela manhã por três dias, seguido de 150 mg pela manhã e à tarde com intervalo de 8 horas durante 3 meses, podendo ser prolongado por até 6 
 meses. Controlar a pressão arterial e, se houver elevação, pode-se reduzir a dose para 150 mg/dia antes da suspensão em casos refratários. Reduzir as doses na 
-insu昀椀ciência renal e hepática para 150 mg/dia. Inibidores da monoamina oxidase devem ser suspensos até 15 dias antes de iniciar a bupropiona. Usar com cautela ou 
-evitar nos pacientes em uso de antipsicóticos, teo昀椀lina e esteroides sistêmicos, por favorecer o surgimento de crises convulsivas
+insuficiência renal e hepática para 150 mg/dia. Inibidores da monoamina oxidase devem ser suspensos até 15 dias antes de iniciar a bupropiona. Usar com cautela ou 
+evitar nos pacientes em uso de antipsicóticos, teofilina e esteroides sistêmicos, por favorecer o surgimento de crises convulsivas
 • Contraindicações:
 – Absolutas: história de convulsão (mesmo febril), epilepsia, traumatismo cranioencefálico, anormalidades ao eletroencefalograma, tumor cerebral, alcoolismo grave, 
 anorexia nervosa e bulimia, gravidez e lactação
@@ -3098,7 +3098,7 @@ recaída. A vareniclina é administrada por via oral, não sofre metabolização
 • Efeitos adversos: náusea (20%), cefaleia, sonhos vívidos e ganho ponderal. Raramente, mudanças do humor, agitação e agressividade
 • Por não sofrer metabolização hepática, a vareniclina não interfere com o uso concomitante de digoxina, metformina ou varfarina. A cimetidina pode aumentar a 
 biodisponibilidade da vareniclina
-• Deve ser usada com cautela em pacientes com insu昀椀ciência renal
+• Deve ser usada com cautela em pacientes com insuficiência renal
 • Contraindicação: gestação, lactação, idade abaixo de 18 anos, distúrbio bipolar, esquizofrenia ou epilepsia
 
 Quadro 7.4 – Tratamento farmacológico habitual para o tabagismo300
@@ -3115,13 +3115,13 @@ goma ou pastilhaNa data escolhida para cessação do
 fumo2 mg ou 4 mg: 1 a 4 vezes ao dia 8 a 10
 Terapia não nicotínica: bupropionaUma semana antes da data escolhida 
 para cessação do fumoPrimeiro ao terceiro dia - 150 mg, 1 x dia
-Quarto dia até o 昀椀nal - 150 mg, 2 x ao dia12
+Quarto dia até o final - 150 mg, 2 x ao dia12
 Terapia não nicotínica: vareniclinaUma semana antes da data escolhida 
 para cessação do fumoPrimeiro ao terceiro dia - 0,5 mg, 1 x dia
 Quarto ao sétimo dia - 0,5 mg de 12/12 horas
-Oitavo dia até o 昀椀nal - 1 mg 12/12 horas12Quadro 7.3 – Terapia de reposição de nicotina300
+Oitavo dia até o final - 1 mg 12/12 horas12Quadro 7.3 – Terapia de reposição de nicotina300
 Reposição rápida de nicotina: goma de mascar e pastilha
-• Empregada quando há 昀椀ssura (necessidade imperiosa de fumar) ou em intervalos de 1-2 horas
+• Empregada quando há fissura (necessidade imperiosa de fumar) ou em intervalos de 1-2 horas
 • Promove liberação mais rápida da nicotina. Pode ser combinada com o adesivo de nicotina ou associada à bupropiona e à vareniclina
 • O tempo aproximado de liberação da nicotina é de 5 minutos com a pastilha e 10 minutos com a goma
 • A dose máxima tolerada é em torno de 10 gomas/pastilhas por dia
@@ -3133,7 +3133,7 @@ neutralizar o pH bucal, que se altera com o consumo de alimentos, e para remoç�
 Reposição lenta: adesivo de nicotina
 • Os adesivos são apresentados em caixas com sete unidades cada, em dosagens que variam entre 7 e 25 mg
 • É indicada para manter um nível contínuo de nicotina circulante durante 24 horas, em processo de desabituação gradual do tabagismo
-• Pode estar indicada como terapia pré-cessação durante 2 a 4 semanas em fumantes que apresentem muita di昀椀culdade em reduzir o número de cigarros e em marcar 
+• Pode estar indicada como terapia pré-cessação durante 2 a 4 semanas em fumantes que apresentem muita dificuldade em reduzir o número de cigarros e em marcar 
 uma data para parar
 • Os adesivos devem ser aplicados pela manhã, em áreas cobertas, na parte superior do tórax ou regiões anteriores, posteriores e superiores laterais do braço, com 
 rodízio entre estes locais e troca na mesma hora do dia. Deve-se evitar exposição solar no local
@@ -3153,7 +3153,7 @@ Tabela 7.1 – Recomendações para abordagem dos adultos tabagistas
 RecomendaçãoClasse de 
 recomendaçãoNível de 
 evidênciaReferência
-Avaliação rotineira do tabagismo para adultos em todas as consultas dos pro昀椀ssionais de saúde, com 
+Avaliação rotineira do tabagismo para adultos em todas as consultas dos profissionais de saúde, com 
 registro no prontuário médico I A 2,10,300
 Aconselhamento sistemático de todos os adultos para a cessação do tabagismo I A 2,10,300
 Recomenda-se para todos os adultos, uma combinação de intervenções comportamentais e 
@@ -3174,7 +3174,7 @@ Tabela 7.2 – Teste de Fagerström para dependência de nicotina265
 [0] Menos de 10 [1] de 11-20 [2] de 21-30 [3] Mais de 31
 5. Você fuma mais frequentemente pela manhã?
 [1] Sim [0] Não
-6. Você fuma mesmo doente, quando precisa 昀椀car acamado a maior parte do 
+6. Você fuma mesmo doente, quando precisa ficar acamado a maior parte do 
 tempo?
 [1] Sim [0] Não
 →Total: [0-2] Muito baixa; [3-4] Baixa; [5] Moderada; [6-7] Elevada; [8-10] 
@@ -3192,7 +3192,7 @@ e entrar em abstinência → seguimento para previnir a recaída e aliviar os
 sintomas de abstinência ↓
 • Manutenção: mantém a mudança de comportamento conquistada e 
 permanece em abstinência → reforçar os benefícios obtidos ao deixar de 
-fumar, identi昀椀car as situações de risco para recaída e as habilidades para 
+fumar, identificar as situações de risco para recaída e as habilidades para 
 enfrentá-los ↓
 • Recaída: não consegue manter a abstinência conquistada e retorna ao 
 comportamento de fumante → oferecer apoio, rever e retomar todo o processo
@@ -3276,10 +3276,10 @@ Em relação à prática de exercício físico, o maior b enefício
 se verifica quando comparamos sedentários com indiv íduos 
 que realizam nenhum ou apenas muito pouco exercício , já 
 Tabela 8.1 – Principais conceitos e termos na temática: exercício, sedentarismo e saúde
-Conceitos e termos Signi昀椀cado
+Conceitos e termos Significado
 Aptidão físicaCapacidade de realizar atividades e exercícios físicos esperados para seu grupo etário, sexo e dimensões físicas, que favoreçam a saúde, a 
 sobrevivência e a adequada funcionalidade no ambiente em que vivem. Divide-se em componentes aeróbico e não-aeróbicos (força/potência 
-muscular, 昀氀exibilidade, equilíbrio e composição corporal)
+muscular, flexibilidade, equilíbrio e composição corporal)
 Atividade física Qualquer movimento corporal produzido pelos músculos esqueléticos que resulte em gasto energético
 Exercício físicoAtividade física estruturada e repetitiva, tendo como propósito a manutenção ou a otimização do condicionamento físico, estética corporal e 
 saúde
@@ -3290,13 +3290,13 @@ Exercitante O praticante regular de exercícios físicos
 AtletaÉ aquele que atende simultaneamente os seguintes critérios: a) treinar esportes para melhorar desempenho, b) participar ativamente de 
 competições desportivas, c) estar formalmente registrado em federações desportivas e d) ter o treinamento e a competição desportiva como 
 seu principal foco de interesse ou forma de vida
-Tabela 8.2 – Per昀椀l na infância e adolescência conforme a prática de exercícios físicos (adaptado de Balassiano DH et al.)319
-Escore De昀椀nição Infância/adolescência
+Tabela 8.2 – Perfil na infância e adolescência conforme a prática de exercícios físicos (adaptado de Balassiano DH et al.)319
+Escore Definição Infância/adolescência
 0 Sedentário ou muito pouco ativo Pedaladas eventuais, dispensas frequentes da educação física escolar
 1 Algo ativoFrequência normal à educação física escolar e períodos curtos e intermitentes de prática desportiva ou 
-de dan挃✀as
+de danças
 2 Moderadamente ativoParticipação regular, a maior parte do tempo, em escolinhas ou atividades desportivas ou em academias 
-de dan挃✀a ou de lutas
+de dança ou de lutas
 3 Muito ativo Participação regular e frequente em várias atividades desportivas na maioria dos dias da semana
 4 Muito ativo e competitivoParticipação, na maior parte do tempo, em treinamento e/ou competição desportiva ou prática regular e 
 frequente de exercício predominantemente aeróbico
@@ -3436,7 +3436,7 @@ exercícios mais intensos reduz o risco cardiovascularI A 341
 Atividade física semanal < 150 minutos de exercício de intensidade moderada ou < 75 minutos de 
 exercícios mais intensos reduz o risco cardiovascular IIa B 341
 
-Tabela 8.4 – Classi昀椀cações do exercício físico
+Tabela 8.4 – Classificações do exercício físico
 Denominação Característica
 Pela via metabólica predominante
 Anaeróbio alático Grande intensidade e curtíssima duração
@@ -3452,8 +3452,8 @@ Média ou moderada Respiração acelerada, ofegante, mas
 controlada. Consegue falar uma frase. (Borg 
 4 a 7)
 Alta ou pesadaRespiração muito acelerada, muito ofegante. 
-Fala di昀椀cultada. (Borg > 7)
-Pela mec愃Ȁnica muscular
+Fala dificultada. (Borg > 7)
+Pela mecânica muscular
 Estático Não ocorre movimento e o trabalho mecânico 
 é zero
 Dinâmico Há movimento e trabalho mecânico positivo ou 
@@ -3461,9 +3461,9 @@ negativo
 * Para exercícios com implementos ou pesos que utilizam grupamentos 
 musculares localizados, a intensidade relativa pode ser expressa em 
 função da carga máxima possível para realizar uma repetição repetição 
-máxima (RM). Por exemplo, intensidade leve - at攃Ā 30% de 1 RM, 
-intensidade m攃Ādia - entre 30 a 60 ou 70% de 1 RM. Outra alternativa 
-攃Ā empregar as escalas psico昀椀siológicas de Borg. Para a classi昀椀cação 
+máxima (RM). Por exemplo, intensidade leve - até 30% de 1 RM, 
+intensidade média - entre 30 a 60 ou 70% de 1 RM. Outra alternativa 
+é empregar as escalas psicofisiológicas de Borg. Para a classificação 
 acima, considerou-se a versão da escala que varia entre 0 e 10.Tabela 8.5 – Métodos de prescrição de intensidade moderada dos 
 exercícios físicos aeróbicos
 Método Descrição
@@ -3595,7 +3595,7 @@ sejam prejudiciais para a saúde;
 cardíaca ao exercício físico intenso, quando realiz ado 
 regularmente em indivíduos saudáveis.303,360 9. Espiritualidade e Fatores Psicossociais 
 em Medicina Cardiovascular
-9.1. Conceitos, De昀椀nições e Racional 
+9.1. Conceitos, Definições e Racional 
 9.1.1. Introdução
 Há um conjunto de evidências que demonstram forte 
 relação entre espiritualidade, religião, religiosid ade e os 
@@ -3984,11 +3984,11 @@ Questionário FICA Questionário HOPE
 F – Fé/crença 
 Você se considera religioso ou espiritualizado?
 Você tem crenças que ajudam a lidar com os problemas? 
-Se não tem, o que dá signi昀椀cado à vida?H – Há fontes de esperança?
+Se não tem, o que dá significado à vida?H – Há fontes de esperança?
 Quais são suas fontes de esperança, conforto e paz?
 A que você se apega nos tempos difíceis ?
 O que lhe dá apoio e faz você andar para a frente?
-I – Importância/in昀氀uência
+I – Importância/influência
 Que importância você dá para a fé e as crenças religiosas na sua vida?
 A fé ou as crenças já ajudaram você a lidar com estresse ou problemas de saúde?
 Você tem alguma crença que pode afetar decisões médicas ou o seu tratamento?O – Organização Religiosa
@@ -4526,7 +4526,7 @@ Rastreamento breve de espiritualidade e religiosidade I B 388-391,429
 Anamnese espiritual de pacientes com doenças crônicas ou de prognóstico reservado I B 386,387,393,429,432
 Respeitar e apoiar religiões, crenças e rituais pessoais do paciente que não sejam prejudiciais 
 ao tratamentoI C 361,365,366, 384
-Suporte por pro昀椀ssional capacitado aos pacientes em sofrimento ou com demandas espirituais I C 361,365,366,393
+Suporte por profissional capacitado aos pacientes em sofrimento ou com demandas espirituais I C 361,365,366,393
 Religiosidade Organizacional associa-se a redução de mortalidade I B 370,371,373,375
 Programa hospitalar de treinamento em espiritualidade e religiosidade IIa C 365,438
 Anamnese espiritual de pacientes estáveis ou ambulatoriais IIa B 384,386,387
@@ -4535,7 +4535,7 @@ Meditação, técnicas de relaxamento e combate ao estresse IIa B 406,424-426
 Espiritualidade e religiosidade potencialmente aumentam sobrevida IIa B 370,371,373,375
 Técnicas de fortalecimento espiritual como perdão, gratidão e resiliência IIb C 412,413,417-420
 Avaliar espiritualidade e religiosidade nos pacientes em situações agudas e instáveis III C 384,387,439
-Prescrever orações, práticas religiosas ou denominação religiosa especí昀椀ca III C 365,381,382
+Prescrever orações, práticas religiosas ou denominação religiosa específica III C 365,381,382
 
 mesmo declínio começou pouco mais de 40 anos após o 
 início do período de crescimento econômico. A exposição a 
@@ -4644,8 +4644,8 @@ Tabela 10.3 – Indicação de vacinação nos cardiopatas
 RecomendaçãoClasse de 
 recomendaçãoNível de 
 evidênciaReferências
-Vacinar cardiopatas contra In昀氀uenza a 昀椀m de reduzir morbimortalidade I B 463-471
-Vacinar cardiopatas contra Pneumococo a 昀椀m de reduzir morbimortalidade I C 475,476,478
+Vacinar cardiopatas contra Influenza a fim de reduzir morbimortalidade I B 463-471
+Vacinar cardiopatas contra Pneumococo a fim de reduzir morbimortalidade I C 475,476,478
 Vacinar cardiopatas com as demais vacinas recomendadas aos adultos (Hepatite, Tríplice viral, 
 Difteria e Tétano)I C 475-477
 Vacinar contra Febre Amarela maiores de 60 anos, com ou sem cardiopata, sob risco elevado 
@@ -4800,7 +4800,7 @@ em homens, um levantamento recente em 3,6 milhões de
 indivíduos nos EUA mostrou que mulheres podem estar 
 piorando as chances de desenvolver a doença, quando 
 comparadas aos homens (odds ratio [OR] ajustada de 1,62; Quadro 10.1 – Principais indicações prioritárias para vacinação 
-contra in昀氀uenza e vacina pneumocócica
+contra influenza e vacina pneumocócica
 Sistema Síndromes, doenças ou situações clínicas
 CardiovascularAcidente vascular encefálico
 Cardiopatias congênitas
@@ -4810,11 +4810,11 @@ miocárdio)
 Hipertensão pulmonar
 Hipertensão arterial sistêmica, se tiver lesão em órgão-
 alvo
-Insu昀椀ciência cardíaca e miocardiopatias
+Insuficiência cardíaca e miocardiopatias
 RespiratórioAsma
 Bronquiectasia
 Displasia broncopulmonar
-Doen挃✀a pulmonar intersticial
+Doença pulmonar intersticial
 DPOC
 Fibrose cística
 EndócrinoDiabetes mellitus
@@ -4838,7 +4838,7 @@ e as manifestações clínicas da DAC em portadores de DAPEI
 costumam ser mais graves, com maior ocorrência de lesão 
 multiarterial dos ramos coronarianos e maior prevalência de 
 lesão de tronco de coronária esquerda.487,488
-10.5.2. Inter-Relação entre e os Diversos Fatores d e 
+10.5.2. Inter-Relação entre e os Diversos Fatores de 
 Risco Cardiovascular e a Doença Arterial Periférica de 
 Extremidades Inferiores
 Na maioria dos estudos, a proporção de pacientes 
@@ -4949,7 +4949,7 @@ as lesões do segmento infrapoplíteo.498,499 A localização da
 DAPEI, de acordo com o território arterial acometid o, foi 
 harmonizada pelo recente documento do PARC – Peripheral 
 Academic Research Consortium (Quadro 10.2).500
-10.5.4. Manejo Preventivo da Doença Arterial Perifé rica de 
+10.5.4. Manejo Preventivo da Doença Arterial Periférica de 
 Extremidades Inferiores
 Diversos aspectos da abordagem preventiva dos fator es 
 de risco da DAPEI é igualmente aplicável, tanto na forma 
@@ -5031,7 +5031,7 @@ do membro inferior.482,483,484 O objetivo é a redução de
 eventos isquêmicos nas extremidades inferiores.483 
 Quadro 10.2 – Localização da DAPEI conforme harmonização pelo PARC500
 Segmento Aorto-ilíaco: aorta abdominal infrarenal; artérias ilíacas comuns; artéria ilíaca interna, artéria ilíaca externa. Limite distal é o anel pélvico ou ligamento inguinal.
-Femoropoplíteo: artéria femoral comum; artéria femoral profunda; artéria femoral super昀椀cial; segmento 1 - acima da artéria poplítea do joelho, do canal de Hunter até a 
+Femoropoplíteo: artéria femoral comum; artéria femoral profunda; artéria femoral superficial; segmento 1 - acima da artéria poplítea do joelho, do canal de Hunter até a 
 borda proximal da patela; segmento 2 - da porção proximal da patela ao centro do espaço da articulação do joelho; segmento 3 - abaixo da artéria poplítea do joelho, do 
 centro do espaço da articulação do joelho até a origem da artéria tibial anterior (limite distal).
 Tibiopedal: tronco tibioperoneiro (origem da artéria tibial anterior e abaixo até a bifurcação das artérias tibial posterior e peroneira); artérias tibial anterior, tibial posterior, 
@@ -5076,7 +5076,7 @@ Exercícios pós revascularização do membro por
 claudicação
 I-B
 Seguimento no mínimo anual da claudicação para 
-veri昀椀car efeito dos exercícios
+verificar efeito dos exercícios
 I-CTeste de esteira pode ser de auxilio na 
 avaliação funcional na DAPEI
 IIa-B
@@ -5084,12 +5084,12 @@ Exercícios supervisionados em pacientes
 com claudicação
 I-A
 Exercícios residenciais ou comunitários, 
-com técnicas de mudan挃✀a comportamental, 
-podem ser bené昀椀cos na melhora funcional
+com técnicas de mudança comportamental, 
+podem ser benéficos na melhora funcional
 IIa-A
 Em pacientes claudicantes, exercícios 
 alternativos como a caminhada de baixa 
-intensidade e sem dor pode ser bené昀椀ca 
+intensidade e sem dor pode ser benéfica 
 na melhora funcional
 IIa-AExercícios supervisionados são 
 recomendados em pacientes com 
@@ -5112,7 +5112,7 @@ claudicação e após procedimento endovascular ou
 cirúrgico aberto
 I-A
 Melhora a perviedade dos enxertos vasculares 
-venosos e arti昀椀ciais de membro inferior
+venosos e artificiais de membro inferior
 II-B
 Na intervenção endovascular infrainguinal para 
 a claudicação do membro inferior, sugere-se o 
@@ -5128,11 +5128,11 @@ antiplaquetário é razoável para prevenir
 risco de IAM, AVC e morte vascular
 IIa-C
 Na DAPEI assintomática com ITB* 
-fronteiri挃✀o a utilidade do antiplaquetário é 
+fronteiriço a utilidade do antiplaquetário é 
 incerta para prevenir risco de IAM, AVC e 
 morte vascular
 IIb-B
-A e昀椀cácia da terapia antiplaquetária dual 
+A eficácia da terapia antiplaquetária dual 
 (aspirina + clopidogrel) para reduzir risco 
 de eventos CV na DAPEI sintomática não 
 está bem estabelecida
@@ -5290,21 +5290,21 @@ Recomendado controle glicêmico otimizado para
 todos os pacientes com claudicação e após 
 procedimento endovascular ou cirúrgico aberto
 I-AControle glicêmico otimizado pode ser 
-bené昀椀co em pacientes com isquemia 
+benéfico em pacientes com isquemia 
 crítica de extremidade inferior para reduzir 
 desfechos no membro
 IIa-BControle glicêmico rigoroso em pacientes 
 diabéticos com DAPEI
 I-C
-AVC: acidente vascular cerebral; BRA: bloqueador de receptor da angiotensina; CV: cardiovascular; DAPEI: doença arterial perif攃Ārica de extremidade inferior; IAM: 
-infarto agudo do miocárdio; IC: insu昀椀ciência cardíaca; IECA: inibidores da enzima conversora da angiotensina; ITB*: Indice Tornozelo-Braquial.
+AVC: acidente vascular cerebral; BRA: bloqueador de receptor da angiotensina; CV: cardiovascular; DAPEI: doença arterial periférica de extremidade inferior; IAM: 
+infarto agudo do miocárdio; IC: insuficiência cardíaca; IECA: inibidores da enzima conversora da angiotensina; ITB*: Indice Tornozelo-Braquial.
 
 Tabela 10.4 – Doenças autoimunes e risco cardiovascular
 RecomendaçãoClasse de 
 recomendaçãoNível de 
 evidênciaReferências
 No contexto da prevenção de eventos cardiovasculares, o benefício da utilização de alvos 
-terapêuticos mais rigorosos especi昀椀camente devido à presença de doenças autoimunes, é incertoIIb C 513,514,516de eventos permanece elevado mesmo com esse perfil 
+terapêuticos mais rigorosos especificamente devido à presença de doenças autoimunes, é incertoIIb C 513,514,516de eventos permanece elevado mesmo com esse perfil 
 metabólico.513,514 Apesar disso, o controle dos fatores de 
 risco tradicionais permanece como a principal estra tégia 
 para a prevenção de eventos CV nestes pacientes. As sim 
@@ -5482,7 +5482,7 @@ evidênciaReferências
 As medidas para prevenção cardiovascular nos pacientes portadores de DRC devem ser 
 individualizadas e considerar o RFG-e, a presença de outras doenças associadas e o risco 
 cardiovascular globalI C 525-527
-DRC: doença renal crônica; RFG-e: ritmo de 昀椀ltração glomerular estimado.
+DRC: doença renal crônica; RFG-e: ritmo de filtração glomerular estimado.
 Tabela 10.6 – Apneia obstrutiva do sono e risco cardiovascular
 RecomendaçãoClasse de 
 recomendaçãoNível de 
@@ -5495,7 +5495,7 @@ Tabela 10.7 – Doenças autoimunes e risco cardiovascular
 RecomendaçãoClasse de 
 recomendaçãoNível de 
 evidênciaReferências
-Todos os homens com disfunção erétil devem ser submetidos a estrati昀椀cação do risco 
+Todos os homens com disfunção erétil devem ser submetidos a estratificação do risco 
 cardiovascular e tratados conforme estimativa de risco observadaIIa C 9,546,54710.9. Disfunção Erétil
 A disfunção erétil (DE) é a incapacidade recorrente de 
 obter e manter uma ereção que permita atividade sex ual 
@@ -5636,11 +5636,11 @@ em unidades de saúde etc.).550,551 Em regiões não-endêmicas,
 a administração de penicilina G benzatina a cada 4 semanas é 
 o regime recomendado para profilaxia secundária na maioria 
 das situações. Em populações de maior risco, a admi nistração 
-a cada 3 semanas é justificada porque os níveis sér icos de Tabela 10.8 – Esquemas de pro昀椀laxia primária e secundária para febre reumática aguda e cardiopatia reumática 
+a cada 3 semanas é justificada porque os níveis sér icos de Tabela 10.8 – Esquemas de profilaxia primária e secundária para febre reumática aguda e cardiopatia reumática 
 RecomendaçãoClasse de 
 recomendaçãoNível de 
 evidênciaReferências
-Pro昀椀laxia primária:
+Profilaxia primária:
 Penicilinas:
 Amoxicilina
 50 mg/kg (máximo, 1 g) VO 1x/dia por 10 dias
@@ -5665,7 +5665,7 @@ IIaB
 B
 B
 B549,550
-Pro昀椀laxia secundária:
+Profilaxia secundária:
 Penicilina G Benzatina
 Pacientes de até 27 Kg: 600.000 UI IM a cada 3 a 4 semanas †; pacientes com > 27 kg: 
 1.200.000 UI IM a cada 3 a 4 semanas †
@@ -5681,11 +5681,11 @@ Variável1
 B
 B
 C549,550
-IM: intramuscular; UI: unidades internacionais; VO: via oral. † Administração a cada 3 semanas 攃Ā recomendada em certas situaç漃̀es de alto risco. ‡ Os antibióticos 
+IM: intramuscular; UI: unidades internacionais; VO: via oral. † Administração a cada 3 semanas é recomendada em certas situaç漃̀es de alto risco. ‡ Os antibióticos 
 macrolídeos não devem ser prescritos para pacientes em uso de outros medicamentos que inibem o citocromo P450 3A, como antifúngicos azólicos, os inibidores 
-de protease do vírus da imunode昀椀ciência humana e alguns inibidores seletivos da recaptação da serotonina.
+de protease do vírus da imunodeficiência humana e alguns inibidores seletivos da recaptação da serotonina.
 
-Quadro 10.4 – Sumário dos critérios de Jones para febre reumática aguda (revisão 2015), com destaque para as principais modi昀椀cações em 
+Quadro 10.4 – Sumário dos critérios de Jones para febre reumática aguda (revisão 2015), com destaque para as principais modificações em 
 relação à revisão de 1992
 Critérios de Jones revisados para o diagnóstico de FRA6
 Risco de FRA:População de baixo risco:
@@ -5705,25 +5705,25 @@ Cardite
 Artralgia 
 Febre 
 Marcadores 
-in昀氀amatórios Intervalo PR prolongado† 
+inflamatórios Intervalo PR prolongado† 
 Poliartralgia 
 ≥ 38,5°C 
 Pico de VHS ≥ 60 mm em 1 h e/ou PCR ≥ 3.0 mg/dLIntervalo PR prolongado†
 Monoartralgia 
 ≥ 38°C 
 Pico de VHS ≥ 30 mm em 1 h e/ou PCR ≥ 3.0 mg/dL 
-FRA: febre reumática aguda; PCR: proteína C reativa; VHS: velocidade de hemossedimentação. Modi昀椀caç漃̀es em relação à revisão de 1992 estão destacadas 
-em negrito. * Cardite subclínica: vista apenas à ecocardiogra昀椀a, sem achados auscultatórios. † Considerando variabilidade por idade e apenas se cardite NÃO for 
-contada como crit攃Ārio maior.
-Tabela 10.9 – Duração dos esquemas de pro昀椀laxia secundária para febre reumática aguda e cardiopatia reumática
+FRA: febre reumática aguda; PCR: proteína C reativa; VHS: velocidade de hemossedimentação. Modificaç漃̀es em relação à revisão de 1992 estão destacadas 
+em negrito. * Cardite subclínica: vista apenas à ecocardiografia, sem achados auscultatórios. † Considerando variabilidade por idade e apenas se cardite NÃO for 
+contada como critério maior.
+Tabela 10.9 – Duração dos esquemas de profilaxia secundária para febre reumática aguda e cardiopatia reumática
 Tipo Duração após o último episódio Classe Nível de evidência Referência
 FRA com cardite e doença cardíaca residual (doença 
 valvar persistente)†10 anos ou até 40 anos de idade (o que for mais longo); 
-pro昀椀laxia por toda a vida pode ser necessária.I C 549,550
+profilaxia por toda a vida pode ser necessária.I C 549,550
 FRA com cardite, mas sem doença cardíaca residual 
 (ausência de doença valvar persistente)† 10 anos ou até 21 anos de idade (o que for mais longo) I C 549,550
 FRA sem cardite 5 anos ou até 21 anos de idade (o que for mais longo) I C 549,550
-FRA: febre reumática aguda. † Evidência clínica ou ecocardiográ昀椀ca.antimicrobianos podem chegar a valores inferiores a os níveis de 
+FRA: febre reumática aguda. † Evidência clínica ou ecocardiográfica.antimicrobianos podem chegar a valores inferiores a os níveis de 
 proteção antes de 4 semanas após a dose inicial (Ta bela 10.9).
 Em relação ao rastreamento ecocardiográfico, estudo s em 
 populações de alto risco demonstraram que sua acurá cia é 
@@ -6072,15 +6072,15 @@ Considera-se obrigatória a medida da PA a partir dos três
 anos de idade, anualmente, ou antes dessa idade quando 
 a criança apresenta antecedentes neonatais, históri a de 
 prematuridade, antecedente de coarctação aórtica, doenças 
-Quadro 11.1 – Causas de obesidade secundária na inf愃Ȁncia e na adolescência
+Quadro 11.1 – Causas de obesidade secundária na infância e na adolescência
 Tipo de causas Exemplos
 Medicamentos Drogas psicoativas (olanzapina, risperidona), drogas antiepiléticas, corticosteróides
-Doenças endócrinas Excesso de cortisol, hipotireoidismo, de昀椀ciência do hormônio de crescimento, pseudohipoparatireoidismo, obesidade hipotalâmica
+Doenças endócrinas Excesso de cortisol, hipotireoidismo, deficiência do hormônio de crescimento, pseudohipoparatireoidismo, obesidade hipotalâmica
 Síndromes genéticas Prader-Willi, Bardet-Biedl, mutação do receptor da melanocortina ou leptina
 Programming Alterações epigenéticas em fases vulneráveis da gestação e da infância
 Outras Microbioma intestinal, resposta individual a vírus e toxinas
 
-Tabela 11.1 – Classi昀椀cação da pressão arterial em crianças e 
+Tabela 11.1 – Classificação da pressão arterial em crianças e 
 adolescentes563
 Até 13 anos de 
 idadePercentil de pressão arterial sistólica ou diastólica
@@ -6186,8 +6186,8 @@ de CT maiores que 170 mg/dL, 7,8% concentrações de TG
 
 Tabela 11.2 – Doenças e fatores de risco cardiovasculares, segundo a intensidade de risco, em crianças e adolescentes
 Tipo e intensidade dos agravos Agravos
-Doen挃✀as de alto risco Diabetes mellitus , insu昀椀ciência renal, transplantes cardíaco ou renal, doenças de Kawasaki com aneurisma
-Doen挃✀as de moderado risco Doenças in昀氀amatórias crônicas, infecção pelo HIV, insu昀椀ciência coronariana precoce na família
+Doenças de alto risco Diabetes mellitus , insuficiência renal, transplantes cardíaco ou renal, doenças de Kawasaki com aneurisma
+Doenças de moderado risco Doenças inflamatórias crônicas, infecção pelo HIV, insuficiência coronariana precoce na família
 Fatores de alto risco Níveis tensionais acima do 99o percentil medicado, tabagismo, índice de massa corporal acima do 97o percentil
 Fatores de moderado risco Hipertensão arterial sem indicação de tratamento medicamentoso, obesidade entre 95 e 97 percentil, HDL < 40 mg/dLTabela 11.3 – Valores de referência para lípides e lipoproteínas em 
 crianças e adolescentes
@@ -6204,18 +6204,18 @@ LDL-c: colesterol da lipoproteína de baixa densidade. Adaptado de “Expert
 panel on integrated guidelines for cardiovascular health and risk reduction 
 in children and adolescentes: summary report”.
 Tabela 11.4 – Metas de LDL-c em crianças e adolescentes, segundo 
-per昀椀l de risco cardiovascular
+perfil de risco cardiovascular
 Níveis de LDL-c Risco
 < 190 mg/dL Sem outro fator de risco
-< 160 mg/dLInsu昀椀ciência coronariana precoce na família Ou 
+< 160 mg/dLInsuficiência coronariana precoce na família Ou 
 outro fator de risco
-< 130 mg/dLInsu昀椀ciência coronariana estabelecida OU 2 
+< 130 mg/dLInsuficiência coronariana estabelecida OU 2 
 doenças ou fatores de alto risco OU 1 doença 
 ou fator de alto risco E 2 doenças ou fatores de 
 moderado risco (Tabela 11.3)
 LDL-c: colesterol da lipoproteína de baixa densidade.
 Tabela 11.5 – Medicamentos utilizados no tratamento da 
-dislipidemia na inf愃Ȁncia e na adolescência
+dislipidemia na infância e na adolescência
 Medicamento Dose Observações
 Lovastatina, pravastatina, 
 sinvastatina e 
@@ -6225,11 +6225,11 @@ Rosuvastatina 5-20 mg/diaPrincipalmente em HF
 (> 7 anos)
 Colestiramina 4-16 g/dia Qualquer idade
 Ezetimibe 10 mg/dia > 4 anos
-Beza昀椀brato, feno昀椀brato 200-600 mg/diaTG persistentemente 
+Bezafibrato, fenofibrato 200-600 mg/diaTG persistentemente 
 > 500 mg/dL
 Ômega 3 2-4 g/dia Efeito variável 
 Fitosteróis 1,2-1,5 g/dia Efeito variável 
-HF: hipercolesterolemia familiar, TG: triglic攃Ārides.maiores que 130 mg/dL, e 3,5% concentrações de LDL- c 
+HF: hipercolesterolemia familiar, TG: triglicérides.maiores que 130 mg/dL, e 3,5% concentrações de LDL- c 
 maiores que 130 mg/dL.588
 11.7.1. Causas
 As causas de dislipidemias, primárias ou secundárias, são 
@@ -6277,7 +6277,7 @@ Tabela 11.6 – Recomendações para abordagem dos crianças e adolescentes
 RecomendaçãoClasse de 
 recomendaçãoNível de 
 evidênciaReferências
-Classi昀椀cação da pressão arterial em crianças e adolescentes
+Classificação da pressão arterial em crianças e adolescentes
 Até 13 anos de 
 idadePercentil de pressão arterial sistólica ou diastólica
 Normal (1-13 anos) < 90
@@ -6300,12 +6300,12 @@ Triglicerídeos (0-9 anos)
 < 100
 LDL-c < 110 < 110 
 Não-HDL-colesterol > 145 > 145I!a C 590-593
-Metas de LDL-c em crianças e adolescentes, segundo per昀椀l de risco cardiovascular
+Metas de LDL-c em crianças e adolescentes, segundo perfil de risco cardiovascular
 Níveis de LDL-c Risco
 < 190 mg/dL Sem outro fator de risco
-< 160 mg/dLInsu昀椀ciência coronariana precoce na família Ou 
+< 160 mg/dLInsuficiência coronariana precoce na família Ou 
 outro fator de risco
-< 130 mg/dLInsu昀椀ciência coronariana estabelecida OU 2 
+< 130 mg/dLInsuficiência coronariana estabelecida OU 2 
 doenças ou fatores de alto risco OU 1 doença 
 ou fator de alto risco E 2 doenças ou fatores de 
 moderado risco (Tabela 11.3)IIa C 590-593
@@ -6319,7 +6319,7 @@ Rosuvastatina 5-20 mg/diaPrincipalmente em HF
 (> 7 anos)
 Colestiramina 4-16 g/dia Qualquer idade
 Ezetimibe 10 mg/dia > 4 anos
-Beza昀椀brato, feno昀椀brato 200-600 mg/diaTG persistentemente 
+Bezafibrato, fenofibrato 200-600 mg/diaTG persistentemente 
 > 500 mg/dL
 Ômega 3 2-4 g/dia Efeito variável 
 Fitosteróis 1,2-1,5 g/dia Efeito variável IIa A 590-593
