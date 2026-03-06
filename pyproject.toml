@@ -1,26 +1,38 @@
 [build-system]
-requires = ["setuptools", "wheel"]
+requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "Agents"
+name = "agents"
 version = "0.1.0"
-description = "Arquitetura profissional com agentes de IA complexos(eu espero)"
+description = "Arquitetura profissional com agentes de IA complexos"
+readme = "README.md"
+requires-python = ">=3.10"
+
 authors = [
-    { name="Marcos Eduardo Evangelista Silva", email="marcos.eduardo.developer@gmail.com" }
+    { name = "Marcos Eduardo Evangelista Silva", email = "marcos.eduardo.developer@gmail.com" }
 ]
+
 dependencies = [
-    "langgraph",
-    "langchain-openai",
-    "langchain_community",
-    "python-dotenv",
-    "pydantic",
-    "ddgs",
+    "langgraph>=0.1.0",
+    "langchain>=0.2.0",
+    "langchain-openai>=0.1.0",
+    "langchain-community>=0.2.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "ddgs>=8.0.0",
     "google-search-results>=2.4.2",
-    "google-api-python-client",
-    "langchain",
-    "youtube-transcript-api",
-    "yt-dlp",
-    "openai-whisper",
-    "whisper"
+    "google-api-python-client>=2.120.0",
+    "youtube-transcript-api>=0.6.2",
+    "yt-dlp>=2024.3.10",
+    "openai-whisper>=20231117",
+    "sentence-transformers>=2.7.0",
+    "transformers>=4.40.0",
+    "torch>=2.2.0",
+    "tiktoken>=0.6.0",
+    "pgvector>=0.2.5",
+    "psycopg[binary]>=3.1.18"
 ]
+
+[tool.setuptools.packages.find]
+where = ["src"]
